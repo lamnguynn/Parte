@@ -1,0 +1,6 @@
+com/example/automotiveexhibition/shared/BuildConfig.java
+ com.example.automotiveexhibition.shared.BuildConfig
+com/example/automotiveexhibition/shared/MyMusicService.java
+ com.example.automotiveexhibition.shared.MyMusicService
+ com.example.automotiveexhibition.shared.MyMusicService$1
+ com.example.automotiveexhibition.shared.MyMusicService$MediaSessionCallback
