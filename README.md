@@ -2,7 +2,7 @@
 
 ## Basic Usage
 
-### Still in development with plans to launch a beta release to private users by Q2 2023
+Still in development with plans to launch a beta release to private users by Q2 2023
 
 ## Tools Used
 
@@ -11,3 +11,4 @@
 
 ## Knowledge Gained
 
+TBD
